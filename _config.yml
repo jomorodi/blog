@@ -22,7 +22,7 @@ name                     : "Jeffery Omorodion"
 description              : "sporadic posts on GitHub pages"
 url                      : "https://blog.omorodion.fi"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jomorodi/blog"
+repository               : jomorodi/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -78,7 +78,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
