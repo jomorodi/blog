@@ -1,4 +1,10 @@
+*.swp
+~*
+*~
 _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+jekyll-cache
+vendor
+_notebooks/.ipynb_checkpoints
