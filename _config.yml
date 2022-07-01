@@ -15,7 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme: "mmistakes/minimal-mistakes"
+
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 title: "Jeffery N.O 's GitHub and blogging pages"
 locale: "en-US"
 email:
@@ -95,7 +97,7 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -103,7 +105,7 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-- "*.sublime-project"
+  - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
   - .asset-cache
