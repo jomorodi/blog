@@ -166,7 +166,7 @@ compress_html:
 author:
   name   : "Jeffery N Omorodion"
   avatar : "/images/omorodion.jpg"
-  bio    : ""Hi, I'm Jeffery, a Process Engineer and aspiring MLops Engineer. I post and gather information that is of use to me and probably you."
+  bio    : "Hi, I'm Jeffery, a Process Engineer and aspiring MLops Engineer. I post and gather information that is of use to me and probably you."
   location         : "Turku, Finland"
   links:
     - label: "Website"
